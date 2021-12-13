@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+/* .banner{
+    background: cool image; TODO:
+} */
+.banner{
+    background: url('https://i.pinimg.com/originals/bb/0b/2e/bb0b2e29d29d3d64df2a7a84e6308618.jpg');
+    width: 100%;
+}
+.banner .links{
+    margin: 50px 40px;
+}
+.banner .links .link{
+    padding: 10px;
+    color: rgb(104, 100, 100);
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:visited{
+    color: gray;
+}
